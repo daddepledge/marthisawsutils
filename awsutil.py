@@ -1,7 +1,6 @@
 '''Mark This database utility module.'''
 
-import chalicelib.creds as c
-from chalicelib.dbutil import Db
+from dbutil import Db
 
 
 class AWSMarkThis(Db):
