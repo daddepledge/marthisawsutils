@@ -17,7 +17,7 @@ setup(
     author='Sefton de Pledge',
     author_email='seftontycho@hotmail.co.uk',
     packages=['mtawsutils'],
-    install_requires=['numpy'],
+    install_requires=install_requires,
     version='0.1',
     license='MIT',
     description='Usefull code for sending payloads and hadling databse stuff',
