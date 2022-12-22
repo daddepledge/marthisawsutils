@@ -7,7 +7,7 @@ name = "mtawsutils"
 version = "0.0.1"
 authors = [{name="Sefton de Pledge", email="seftontycho@hotmail.co.uk"},
            {name="John de Pledge", email="peaktuition@gmail.com"}]
-requires-python = "3.8"
+requires-python = ">=3.8"
 
 [project.urls]
 "Homepage" = "https://github.com/daddepledge/mtawsutils"
